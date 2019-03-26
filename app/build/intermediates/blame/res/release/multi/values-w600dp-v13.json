@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\googleDisk\\HDWallpapers\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 42,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 44,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\googleDisk\\HDWallpapers\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 44,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 63,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\googleDisk\\HDWallpapers\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 63,
+                        "endOffset": 149
+                    }
+                }
+            }
+        ]
+    }
+]

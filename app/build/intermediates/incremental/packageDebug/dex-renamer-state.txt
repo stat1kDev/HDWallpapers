@@ -1,0 +1,7 @@
+#Tue Feb 26 15:11:49 EET 2019
+base.0=C\:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d998c85a11d4f49f5bccc5242dbed9c0589741d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a37d849528c61ab230f975666a16a6ac5ef43caf\\classes.dex
+base.1=C\:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a37d849528c61ab230f975666a16a6ac5ef43caf
+file.0=C\:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d998c85a11d4f49f5bccc5242dbed9c0589741d6\\classes.dex

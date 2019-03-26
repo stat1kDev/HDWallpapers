@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_background.png",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wallpaper_black_24dp.png",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_wallpaper_black_24dp.png"
+    },
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_done_black_24dp.png",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_done_black_24dp.png"
+    },
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_get_app_black_24dp.png",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_get_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_share_black_24dp.png",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share_black_24dp.png"
+    }
+]

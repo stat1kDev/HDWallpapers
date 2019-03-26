@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:1:1-53:12
+	package
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:4:5-75
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:4:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:5:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.2.0] C:\Users\STAT1K\.android\build-cache\aac83a5fdf626621dd5eea8f5739c8560c576dff\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.2.0] C:\Users\STAT1K\.android\build-cache\11f1fdc87afb5f0dc1eb63f5d4723352d77f0b7b\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#com.android.vending.BILLING
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:13:22-64
+uses-feature#0x00020000
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:15:5-17:34
+	android:glEsVersion
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:16:9-41
+	android:required
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:17:9-32
+application
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:19:5-51:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\310d5b484edf18cf4d631a740a0613661aa7c498\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\a4a703151b22d9a36fc60716ae755d960a16367b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\f2c44b19cb1c625968df22a40be8525793893391\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\STAT1K\.android\build-cache\cab674c3b7c1a851960eb422475312ceb8335e9d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\d65df648775671aa5cbd74613933b2d39b51b5c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.2.0] C:\Users\STAT1K\.android\build-cache\aac83a5fdf626621dd5eea8f5739c8560c576dff\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.2.0] C:\Users\STAT1K\.android\build-cache\11f1fdc87afb5f0dc1eb63f5d4723352d77f0b7b\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.0] C:\Users\STAT1K\.android\build-cache\f00273722a2ca189a695d429207c135827ecb855\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\STAT1K\.android\build-cache\24e4ffbdbc9b6308b275462cf2f1297d50bc552a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\STAT1K\.android\build-cache\6f30685ee7a9d459e47596f01071e3a4da33b84b\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\STAT1K\.android\build-cache\410aadb4ab0a19f697cf14493e7030c778d7cdbb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\STAT1K\.android\build-cache\f2fc94f127652530c8e18382fbd0addb11d98458\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\34cd538b9e102b7429e0e46aeedbba969dffad53\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\STAT1K\.android\build-cache\46a5c4fbc7fa1068ff46e222179fa0902531d1cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\STAT1K\.android\build-cache\0c29b7dee4222bc747e68f855c0e0f0e27eee3aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\9f20bb3d502ecb0e86c2e0db079a875ffbab6d03\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:24:9-35
+	android:roundIcon
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:23:9-54
+	android:allowBackup
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:25:9-40
+activity#stat1kDev.hdwallpapers.MainActivity
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:31:13-45
+	android:configChanges
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:30:13-59
+	android:theme
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:28:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:34:27-74
+activity#stat1kDev.hdwallpapers.HolderActivity
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:38:9-39:61
+	android:configChanges
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:38:19-71
+activity#stat1kDev.hdwallpapers.ui.TumblrPagerActivity
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:40:9-41:68
+	android:theme
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:40:19-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:43:9-45:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:44:13-122
+	android:theme
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:45:13-61
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:43:19-71
+meta-data#com.google.android.gms.APPLICATION_ID
+ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:47:9-49:70
+	android:value
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:49:13-67
+	android:name
+		ADDED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml:48:13-65
+uses-sdk
+INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\STAT1K\.android\build-cache\076025c8cbed8da82fae895ee410ce566d8eef8c\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\310d5b484edf18cf4d631a740a0613661aa7c498\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\a4a703151b22d9a36fc60716ae755d960a16367b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\f2c44b19cb1c625968df22a40be8525793893391\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\66f2cae8ea2bec27a0e19023567b48a0b03f7ab7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\STAT1K\.android\build-cache\cab674c3b7c1a851960eb422475312ceb8335e9d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\d65df648775671aa5cbd74613933b2d39b51b5c1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.2.0] C:\Users\STAT1K\.android\build-cache\aac83a5fdf626621dd5eea8f5739c8560c576dff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.2.0] C:\Users\STAT1K\.android\build-cache\11f1fdc87afb5f0dc1eb63f5d4723352d77f0b7b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.0] C:\Users\STAT1K\.android\build-cache\f00273722a2ca189a695d429207c135827ecb855\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.2.0] C:\Users\STAT1K\.android\build-cache\236aa2135c48cf59592976df8f48308802e6b75e\output\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.2.0] C:\Users\STAT1K\.android\build-cache\4eed5ab79df1387bad6261c40f8ca7b46dbcc3eb\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.2.0] C:\Users\STAT1K\.android\build-cache\24e4ffbdbc9b6308b275462cf2f1297d50bc552a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\STAT1K\.android\build-cache\6f30685ee7a9d459e47596f01071e3a4da33b84b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\STAT1K\.android\build-cache\410aadb4ab0a19f697cf14493e7030c778d7cdbb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\STAT1K\.android\build-cache\f2fc94f127652530c8e18382fbd0addb11d98458\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\34cd538b9e102b7429e0e46aeedbba969dffad53\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\STAT1K\.android\build-cache\46a5c4fbc7fa1068ff46e222179fa0902531d1cf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\STAT1K\.android\build-cache\0c29b7dee4222bc747e68f855c0e0f0e27eee3aa\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\9f20bb3d502ecb0e86c2e0db079a875ffbab6d03\output\AndroidManifest.xml:21:5-23:58
+MERGED from [jp.wasabeef:picasso-transformations:2.1.2] C:\Users\STAT1K\.android\build-cache\374898e4922a80ea29150d729e9115b39db58e1c\output\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\STAT1K\.android\build-cache\aaa9c2f4e1c9b2be2027807f2c0ef323b806f26c\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\googleDisk\HDWallpapers\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\310d5b484edf18cf4d631a740a0613661aa7c498\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\a4a703151b22d9a36fc60716ae755d960a16367b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\STAT1K\.android\build-cache\f2c44b19cb1c625968df22a40be8525793893391\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\66f2cae8ea2bec27a0e19023567b48a0b03f7ab7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\STAT1K\.android\build-cache\cab674c3b7c1a851960eb422475312ceb8335e9d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\STAT1K\.android\build-cache\d65df648775671aa5cbd74613933b2d39b51b5c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\STAT1K\.android\build-cache\410aadb4ab0a19f697cf14493e7030c778d7cdbb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\STAT1K\.android\build-cache\f2fc94f127652530c8e18382fbd0addb11d98458\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\34cd538b9e102b7429e0e46aeedbba969dffad53\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\STAT1K\.android\build-cache\46a5c4fbc7fa1068ff46e222179fa0902531d1cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\STAT1K\.android\build-cache\0c29b7dee4222bc747e68f855c0e0f0e27eee3aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\STAT1K\.android\build-cache\9f20bb3d502ecb0e86c2e0db079a875ffbab6d03\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\STAT1K\.android\build-cache\314424fde543968719e43aa5702e5e5d260d0650\output\AndroidManifest.xml:26:9-47
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.2.0] C:\Users\STAT1K\.android\build-cache\aac83a5fdf626621dd5eea8f5739c8560c576dff\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.2.0] C:\Users\STAT1K\.android\build-cache\11f1fdc87afb5f0dc1eb63f5d4723352d77f0b7b\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.2.0] C:\Users\STAT1K\.android\build-cache\aac83a5fdf626621dd5eea8f5739c8560c576dff\output\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.2.0] C:\Users\STAT1K\.android\build-cache\8c192c51a2c3642fe2b255918db7b2bb39d26949\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\STAT1K\.android\build-cache\6f30685ee7a9d459e47596f01071e3a4da33b84b\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\STAT1K\.android\build-cache\6f30685ee7a9d459e47596f01071e3a4da33b84b\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.2.0] C:\Users\STAT1K\.android\build-cache\6f30685ee7a9d459e47596f01071e3a4da33b84b\output\AndroidManifest.xml:20:20-65

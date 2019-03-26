@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\release\\menu\\settings_menu.xml",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "C:\\googleDisk\\HDWallpapers\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "C:\\googleDisk\\HDWallpapers\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
